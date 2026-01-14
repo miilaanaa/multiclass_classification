@@ -1,6 +1,6 @@
 # Многоклассовая классификация авторов русских литературных текстов
 
-[![Open in Google Colab](https://colab.research.google.com/drive/1Pe19kRUi4m58-VTmOFrYXmIdOPV3kElm?usp=sharing)
+![Open in Google Colab](https://colab.research.google.com/drive/1Pe19kRUi4m58-VTmOFrYXmIdOPV3kElm?usp=sharing)
 
 ## Описание проекта
 Задача многоклассовой классификации текстов на русском языке для определения авторства отрывков из произведений классической отечественной литературы. В проекте сравниваются подходы на основе свёрточных (CNN) и рекуррентных (LSTM) нейронных сетей.
